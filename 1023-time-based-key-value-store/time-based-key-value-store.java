@@ -1,7 +1,3 @@
-import java.util.HashMap;
-import java.util.ArrayList;
-import java.util.List;
-
 class TimeMap {
 
     private static class Data {
